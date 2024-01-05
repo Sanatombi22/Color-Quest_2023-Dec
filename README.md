@@ -1,4 +1,8 @@
 # Color-Quest_2023-Dec
 Color Quest - Exploring the palette of perception
 
-"Color Quest" is characterized by a rich tapestry of features that collectively create a captivating and educational experience. The game unfolds through interactive levels dedicated to primary, secondary, and tertiary colors, providing users with a vibrant and engaging journey. The user-friendly interface ensures intuitive navigation. What sets "Color Quest" apart is its seamless integration of color theory concepts into gameplay, transforming educational content into a dynamic and enjoyable learning experience. In this harmonious blend of entertainment and education, users not only absorb theoretical knowledge but also apply it practically, making "Color Quest" a distinctive and immersive platform for exploring the palette of perception.
+"Color Quest" is characterized by a rich tapestry of features that collectively create a captivating and educational experience. It is a dynamic and educational gaming project designed to immerse players in the captivating world of color theory. 
+
+The project is implemented in C++ using the OpenGL Glut library. It is centered around the exploration of color theory concepts through three distinct levels. Each level focuses on a specific aspect of color theory - primary colors, secondary colors, and tertiary colors, providing players with a comprehensive journey through the intricacies of the color spectrum.
+
+
